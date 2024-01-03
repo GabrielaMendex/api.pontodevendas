@@ -1,0 +1,4 @@
+node_modules
+.env
+conexao.js
+schemaPedidos.js
